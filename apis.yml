@@ -1,7 +1,12 @@
 aid: treehouse-foods
-url: https://raw.githubusercontent.com/api-evangelist/treehouse-foods/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/treehouse-foods/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.treehouse-foods.com
+description: >-
+  TreeHouse Foods is one of the largest manufacturers of private label packaged foods
+  and beverages in North America, producing snack and convenience foods for retail
+  grocery and foodservice customers.
