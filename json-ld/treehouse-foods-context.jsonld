@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "th": "https://treehousefoods.com/ns/",
+    "Organization": "schema:Organization",
+    "Product": "schema:Product",
+    "Brand": "schema:Brand",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "legalName": "schema:legalName",
+    "tickerSymbol": "schema:tickerSymbol",
+    "exchange": "schema:exchangeCode",
+    "address": "schema:address",
+    "foundingDate": "schema:foundingDate",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "industry": "schema:industry",
+    "category": "schema:category",
+    "sku": "schema:sku",
+    "brand": "schema:brand",
+    "manufacturer": "schema:manufacturer",
+    "privateLabel": "th:privateLabel",
+    "skuCount": "th:skuCount",
+    "productCategory": "th:productCategory",
+    "snacking": "th:snacking",
+    "beverage": "th:beverage",
+    "mealPreparation": "th:mealPreparation",
+    "retailChannel": "th:retailChannel",
+    "foodserviceChannel": "th:foodserviceChannel"
+  }
+}

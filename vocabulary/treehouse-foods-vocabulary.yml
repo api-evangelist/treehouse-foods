@@ -1,0 +1,105 @@
+title: TreeHouse Foods Vocabulary
+description: >-
+  Domain vocabulary for TreeHouse Foods, one of North America's largest
+  private label packaged food and beverage manufacturers. Covers product
+  categories, supply chain, retail channels, and food manufacturing concepts.
+created: "2026-05-03"
+modified: "2026-05-03"
+
+terms:
+  - term: Private Label
+    definition: >-
+      Products manufactured by TreeHouse Foods and sold under a retailer's
+      own brand name rather than a manufacturer's brand. TreeHouse is a
+      leading private label manufacturer producing products for major
+      grocery chains and retail customers across North America.
+    tags:
+      - Core Business
+      - Manufacturing
+
+  - term: SKU
+    definition: >-
+      Stock Keeping Unit — a unique identifier for each distinct product
+      variant. TreeHouse Foods produces over 1,600 SKUs across snacking,
+      beverage, and meal preparation categories.
+    tags:
+      - Product Management
+      - Inventory
+
+  - term: Snacking
+    definition: >-
+      TreeHouse Foods' snacking category includes cookies, crackers, pretzels,
+      nuts, and other shelf-stable snack foods produced under private label
+      for retail grocery customers.
+    tags:
+      - Product Category
+      - Snacking
+
+  - term: Beverage
+    definition: >-
+      TreeHouse Foods' beverage category includes private label hot beverages
+      (single-serve pods, ground and whole bean coffee), powdered beverages,
+      and shelf-stable drink products.
+    tags:
+      - Product Category
+      - Beverage
+
+  - term: Meal Preparation
+    definition: >-
+      TreeHouse Foods' meal preparation category includes soups, broths,
+      gravies, pasta and sauces, dressings and sauces, and other center-store
+      shelf-stable products used in meal preparation.
+    tags:
+      - Product Category
+      - Meal Preparation
+
+  - term: Co-Manufacturing
+    definition: >-
+      Manufacturing products on behalf of other brands or retailers.
+      TreeHouse Foods operates as a co-manufacturer and private label
+      producer for retail grocery chains across North America.
+    tags:
+      - Manufacturing
+      - Business Model
+
+  - term: Retail Channel
+    definition: >-
+      TreeHouse Foods sells products through retail grocery chains, club
+      stores, mass merchandisers, drug stores, and dollar stores. Most
+      sales are private label products sold under the retailer's brand.
+    tags:
+      - Sales Channel
+      - Distribution
+
+  - term: Foodservice Channel
+    definition: >-
+      TreeHouse Foods supplies packaged food products to foodservice
+      customers including restaurants, schools, healthcare facilities,
+      and institutional food operators.
+    tags:
+      - Sales Channel
+      - Distribution
+
+  - term: THS
+    definition: >-
+      The NYSE ticker symbol for TreeHouse Foods, Inc. The company is
+      publicly traded on the New York Stock Exchange.
+    tags:
+      - Finance
+      - Stock
+
+  - term: Oak Brook
+    definition: >-
+      TreeHouse Foods headquarters location. The company is headquartered
+      in Oak Brook, Illinois, a suburb of Chicago.
+    tags:
+      - Location
+      - Corporate
+
+  - term: Fortune 1000
+    definition: >-
+      TreeHouse Foods is ranked among the Fortune 1000, the annual list
+      of the 1,000 largest US companies by revenue published by Fortune magazine.
+    tags:
+      - Company Classification
+      - Revenue
