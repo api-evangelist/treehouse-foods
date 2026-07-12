@@ -22,6 +22,8 @@ position: Consumer
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/treehouse-foods-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/treehouse-foods
   - type: JSONLD
