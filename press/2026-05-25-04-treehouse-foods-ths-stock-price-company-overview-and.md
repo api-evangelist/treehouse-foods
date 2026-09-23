@@ -1,7 +1,9 @@
 ---
 title: Treehouse Foods | THS Stock Price, Company Overview & ...
 url: https://www.forbes.com/companies/treehouse-foods/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TreeHouse Foods" press release artificial intelligence'
 position: 4
 source: serpapi-google

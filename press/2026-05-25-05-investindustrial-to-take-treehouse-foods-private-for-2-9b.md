@@ -1,7 +1,9 @@
 ---
 title: Investindustrial to take TreeHouse Foods private for $2.9B
 url: https://www.linkedin.com/posts/drew-f-74947b117_treehouse-foods-stock-pumps-23-on-investindustrial-activity-7393753085560602624-i9XH
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TreeHouse Foods" press release artificial intelligence'
 position: 5
 source: serpapi-google
