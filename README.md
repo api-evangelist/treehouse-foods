@@ -64,47 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TreeHouse Foods is one of the largest manufacturers of private label packaged foods and beverages in North America, producing snack and convenience foods for retail grocery and foodservice customers. The company is publicly traded on the NYSE (THS) and headquartered in Oak Brook, Illinois.
+TreeHouse Foods is one of the largest manufacturers of private label packaged foods and beverages in North America, producing snack and convenience foods for retail grocery and foodservice customers. The company is publicly traded on the NYSE (THS) and is headquartered in Oak Brook, Illinois. TreeHouse Foods produces over 1,600 SKUs across snacking, beverage, and meal preparation categories.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/treehouse-foods/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/treehouse-foods/refs/heads/main/apis.yml)
+**Areas:** Food Manufacturing · Fortune 1000 · Consumer Packaged Goods · Private Label · Retail
 
-## Scope
+## TreeHouse Foods on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
-- **Fortune 1000:** Yes (NYSE: THS)
+Everything profiled for TreeHouse Foods is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/treehouse-foods/](https://apis.io/providers/treehouse-foods/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Food Manufacturing, Fortune 1000, FMCG, Private Label, Retail
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### JSON-LD (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-03
+Linked-data contexts for the provider's vocabulary.
 
-## APIs
+- [Treehouse Foods Context](https://apis.io/jsonld/treehouse-foods/treehouse-foods-context/)
 
-TreeHouse Foods is a private label food manufacturer and does not offer a public developer API. The company is a B2B manufacturer supplying retail grocery chains and foodservice customers. No public REST APIs or developer portals are currently available.
+#### Vocabulary (1)
 
-## JSON-LD
+The provider's domain terms, defined.
 
-- [treehouse-foods-context.jsonld](json-ld/treehouse-foods-context.jsonld) — Linked data context aligning TreeHouse Foods entities with schema.org
+- [TreeHouse Foods Vocabulary](https://apis.io/vocabularies/treehouse-foods/treehouse-foods-vocabulary/)
 
-## Vocabulary
+#### Security (1)
 
-- [treehouse-foods-vocabulary.yml](vocabulary/treehouse-foods-vocabulary.yml) — Domain vocabulary for private label food manufacturing, product categories, and retail channels
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Treehouse Foods Domain Security](https://apis.io/security/treehouse-foods/treehouse-foods-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.treehousefoods.com)
-- [About](https://www.treehousefoods.com/company/about-us/default.aspx)
-- [Investor Relations](https://www.treehousefoods.com/investors/investor-overview/default.aspx)
-- [Annual Reports](https://www.treehousefoods.com/investors/financials/annual-reports/default.aspx)
-- [SEC Filings](https://www.treehousefoods.com/investors/financials/sec-filings/default.aspx)
+- [Privacy policy](https://www.treehousefoods.com/privacy-policy/default.aspx)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 11.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 10.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/treehouse-foods/](https://apis.io/providers/treehouse-foods/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TreeHouse Foods: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/treehouse-foods/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
